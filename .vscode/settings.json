@@ -2,5 +2,8 @@
     "jupyter.jupyterServerType": "local",
     "files.associations": {
         "*.yaml": "home-assistant"
-    }
+    },
+    "cSpell.words": [
+        "amountin"
+    ]
 }
